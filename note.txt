@@ -1,0 +1,7 @@
+GIT CLONE <LINK>
+GIT ADD .
+GIT COMMIT -M "NOTE"
+GIT PUSH
+(GIT PUSH ORIGIN)
+CHECK OUT BRAND "ABC"
+(Phải viết đúng tên của nhánh cần check-out)
